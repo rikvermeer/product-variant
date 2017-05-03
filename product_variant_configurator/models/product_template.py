@@ -4,8 +4,8 @@
 # © 2016 ACSONE SA/NV
 # License AGPL-3 - See http://www.gnu.org/licenses/agpl-3
 
-from openerp import models, fields, api, _
-from openerp.tools import config
+from odoo import models, fields, api, _
+from odoo.tools import config
 
 
 class ProductTemplate(models.Model):

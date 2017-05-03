@@ -4,7 +4,7 @@
 # © 2016 ACSONE SA/NV
 # License AGPL-3 - See http://www.gnu.org/licenses/agpl-3
 
-from openerp import api, exceptions, fields, models, _
+from odoo import api, exceptions, fields, models, _
 
 
 class ProductProduct(models.Model):

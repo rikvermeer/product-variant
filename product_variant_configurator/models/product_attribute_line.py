@@ -3,7 +3,7 @@
 # © 2016 Pedro M. Baeza <pedro.baeza@tecnativa.com>
 # License AGPL-3 - See http://www.gnu.org/licenses/agpl-3
 
-from openerp import models
+from odoo import models
 
 
 class ProductAttributeLine(models.Model):
